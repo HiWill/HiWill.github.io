@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hiwill.github.io/</loc>
+    <loc>https://hiwill.github.io/post/my-first-post/</loc>
     <lastmod>2019-12-23T15:39:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hiwill.github.io/post/my-first-post/</loc>
+    <loc>https://hiwill.github.io/</loc>
     <lastmod>2019-12-23T15:39:05+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
