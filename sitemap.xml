@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/hiwill/</loc>
+    <loc>/</loc>
     <lastmod>2019-12-23T15:39:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/hiwill/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2019-12-23T15:39:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/hiwill/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-12-23T15:39:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/hiwill/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/hiwill/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
