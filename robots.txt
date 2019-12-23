@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://hiwill.github.io/sitemap.xml
