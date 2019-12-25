@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>HelloWorld</title>
-      <link>https://hiwill.github.io/post/my-first-post/</link>
+      <title>Houdini Hex Surface</title>
+      <link>https://hiwill.github.io/post/houdini_hex_surface/</link>
       <pubDate>Mon, 23 Dec 2019 15:39:05 +0800</pubDate>
       
-      <guid>https://hiwill.github.io/post/my-first-post/</guid>
-      <description>content</description>
+      <guid>https://hiwill.github.io/post/houdini_hex_surface/</guid>
+      <description>remesh : iterations=5，smooth=0, EdgeLengths=Adaptive,Density=1,Gradation=0.25
+divide : uncheck &amp;ldquo;smooth Polygons&amp;rdquo;, check &amp;ldquo;Compute Dual&amp;rdquo;
+https://github.com/HiWill/hiwillsource/blob/master/files/houdini/hex_surface.hip</description>
     </item>
     
   </channel>
